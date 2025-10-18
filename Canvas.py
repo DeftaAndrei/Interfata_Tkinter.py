@@ -1,7 +1,7 @@
 from tkinter import *
 master = Tk()
 
-master.title('Iza')
+master.title('Next')
 master.geometry('800x600')
 master.configure(bg='grey')
 master.resizable(False, False)
